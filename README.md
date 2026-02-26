@@ -1,2 +1,2 @@
-# qwen-dpo
-通义千问的DPO训练
+LLM的学习
+SFT,DPO,PPO,...
